@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./genesisgraeceef00unkngoog_0266.png"; bbox 0 0 3169 4941; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 988 590 2224 893">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 988 590 2224 893">
+     <span class='ocr_line' id='line_1_1' title="bbox 988 590 2224 893; baseline -0.002 -69"><span class='ocrx_word' id='word_1_1' title='bbox 988 590 2224 893; x_wconf 54' lang='grc' dir='ltr'><strong>ῌΙΕΒΟΝΥΜΪ”””</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 370 1128 2597 1283">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 370 1128 2597 1283">
+     <span class='ocr_line' id='line_1_2' title="bbox 370 1128 2597 1283; baseline -0.003 -51"><span class='ocrx_word' id='word_1_2' title='bbox 370 1128 1222 1283; x_wconf 44' lang='grc' dir='ltr'><strong>ΟΠΛΕΒΤΙΟΝΕΞ.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1271 1128 1988 1227; x_wconf 81' lang='lat' dir='ltr'><strong>HEBRAIOAE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2050 1128 2179 1228; x_wconf 91' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2244 1129 2597 1227; x_wconf 86' lang='lat' dir='ltr'><strong>LIBRO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1144 1462 1839 1569">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1144 1462 1839 1569">
+     <span class='ocr_line' id='line_1_3' title="bbox 1144 1462 1839 1569; baseline 0.012 -8"><span class='ocrx_word' id='word_1_6' title='bbox 1144 1462 1839 1569; x_wconf 77' lang='lat' dir='ltr'>GENESEOS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 730 2365 2251 2450">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 730 2365 2251 2450">
+     <span class='ocr_line' id='line_1_4' title="bbox 730 2365 2251 2450; baseline 0 -3"><span class='ocrx_word' id='word_1_7' title='bbox 730 2366 1198 2450; x_wconf 84' lang='lat' dir='ltr'><strong>PAULI</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1297 2365 1436 2447; x_wconf 79' lang='lat' dir='ltr'><strong>de</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1531 2365 2251 2449; x_wconf 71' lang='lat' dir='ltr'><strong>LAGARDE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1281 3999 1712 4070">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1281 3999 1712 4070">
+     <span class='ocr_line' id='line_1_5' title="bbox 1281 3999 1712 4070; baseline 0 -2"><span class='ocrx_word' id='word_1_10' title='bbox 1281 3999 1712 4070; x_wconf 83' lang='lat' dir='ltr'>LIPSIAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 748 4161 2247 4217">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 748 4161 2247 4217">
+     <span class='ocr_line' id='line_1_6' title="bbox 748 4161 2247 4217; baseline -0.003 -2"><span class='ocrx_word' id='word_1_11' title='bbox 748 4171 882 4216; x_wconf 68' lang='lat'><strong>1³30</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 893 4161 2247 4217; x_wconf 68' lang='lat' dir='ltr'>TTTTTTTTTTTTTTTTTTTTTTTTTT</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
